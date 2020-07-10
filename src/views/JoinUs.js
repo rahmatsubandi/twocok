@@ -32,16 +32,16 @@ class Contact extends React.Component {
       kegiatan,
       alamat,
     } = this.state;
-    alert(`Data Berhasil dikirim di console!!`);
-    console.log(
-      `Data Member :
+    alert(
+      `Data Kamu sebagai berikut:
       Nama depan : ${firstName}
       Nama belakang : ${lastName}
       Umur : ${umur}
       Tanggal lahir : ${date}
       Jenis kelamin : ${jenkel}
       Kegiatan : ${kegiatan}
-      Alamat : ${alamat}`
+      Alamat : ${alamat}
+      Sukses dikirim!`
     );
   }
 
