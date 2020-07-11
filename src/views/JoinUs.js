@@ -3,7 +3,7 @@ import React from "react";
 import FormGambar from "../components/FormGambar";
 
 // Controlled Component
-class Contact extends React.Component {
+class JoinUs extends React.Component {
   constructor(props) {
     super(props);
     this.state = {
@@ -192,4 +192,4 @@ class Contact extends React.Component {
   }
 }
 
-export default Contact;
+export default JoinUs;
