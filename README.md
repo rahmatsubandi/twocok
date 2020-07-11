@@ -15,3 +15,4 @@ Open [2COK](https://2cok.rhmtin.com/)
 ### deploy with firebase
 
 Open [cok-61a2b](https://cok-61a2b.web.app/)
+Open [cok-61a2b.firebaseapp](https://cok-61a2b.firebaseapp.com/)
