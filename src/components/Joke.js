@@ -48,10 +48,13 @@ const Joke = (props) => {
                   Read Joke
                 </button>
                 <h5 className="card-title text-danger">
-                  Category : {joke.joke !== null && joke.joke.category}
+                  Category : {joke.joke !== null && joke.joke.category} <br />
                 </h5>
                 <h6 className="card-subtitle mb-2 font-weight-bold">
                   {joke.joke !== null && joke.joke.setup}
+                </h6>
+                <h6 className="card-text font-italic font-weight-normal">
+                  {joke.joke !== null && joke.joke.joke}
                 </h6>
                 <h6 className="card-text font-italic font-weight-normal">
                   {joke.joke !== null && joke.joke.delivery}
