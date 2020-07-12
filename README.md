@@ -17,3 +17,7 @@ Open [2COK](https://2cok.rhmtin.com/)
 Open [cok-61a2b](https://cok-61a2b.web.app/)
 
 Open [cok-61a2b.firebaseapp](https://cok-61a2b.firebaseapp.com/)
+
+### deploy with netlify
+
+Open [2cok.netlify](https://2cok.netlify.app/)
