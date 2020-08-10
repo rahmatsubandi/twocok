@@ -76,7 +76,10 @@ class PageInti extends React.Component {
           </Switch>
         </div>
         {/* Bagian Footer */}
-        <footer className="border-top p-3 text-white bg-dark">
+        <footer
+          className="border-top p-3 text-white bg-dark"
+          style={{ userSelect: "none" }}
+        >
           <div className="container">
             <div className="row justify-content-between">
               <div className="col-1">

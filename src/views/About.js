@@ -8,12 +8,15 @@ export default function About() {
         <div className="col-md-9 col-lg-6 mb-4 pt-3">
           <FormGambar />
         </div>
-        <div className="col-md-auto col-lg-6 mb-4 pt-3">
+        <div
+          className="col-md-auto col-lg-6 mb-4 pt-3"
+          style={{ userSelect: "none" }}
+        >
           <p className="text-justify lead font-italic">
             2COK was founded on Today, precisely on July 10, 2020. 2COK is also
             a parody of 1CAK. But in that respect I apologize to 1CAK.
           </p>
-          <p className="text-justify lead ">
+          <p className="text-justify lead">
             2COK is made with all my heart, for the entertainment of meme
             lovers. Of course this website still has a lot of shortcomings, so I
             as the owner of 2COK will always update this Website with all my
